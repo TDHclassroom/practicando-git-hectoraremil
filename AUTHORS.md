@@ -1,3 +1,3 @@
 # Autores
    
-   - Tu Nombre (@hectoraremil)
+@hectoraremil
